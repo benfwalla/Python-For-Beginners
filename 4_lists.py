@@ -1,4 +1,4 @@
-# LISTS AND LOOPS
+# LISTS
 
 # Instead of creating variables for each and every value, it might make more
 # sense to store them all in one variable. Any easy way to do this is using
@@ -17,7 +17,7 @@ print(len(kendrick_albums))		# Out: 5
 second_album = kendrick_albums[1]
 print(second_album)		# Out: Good Kid, M.A.A.D City
 
-# Wait a second... why did we use '1' to get the second item in the list?
+# ^ Wait a second... why did we use '1' to get the second item in the list?
 # Python using zero-based indexing, which means the first item starts at '0'.
 # So if you want to get the first item in the list:
 first_album = kendrick_albums[0]
