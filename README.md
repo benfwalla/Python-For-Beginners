@@ -1,18 +1,18 @@
 # Python For Beginners
 
 Hello, novice Pytohnistas! I created this repository for absolute beginners of
-Python 3 in my club, Code@IU. Learning to code can be a very overwhelming 
+Python 3 for my club, Code@IU. Learning to code can be a very overwhelming 
 process because you might not know where to begin. If you feel like you are at 
-the state, then this repository is for you. The following topics will be found
-here:
-* [print() and basic data types](https://github.com/benfwalla/Python-For-Beginners/blob/master/1_basic_data_types.py)
-* [Variables](https://github.com/benfwalla/Python-For-Beginners/blob/master/2_variables.py)
-* [Booleans and if statements](https://github.com/benfwalla/Python-For-Beginners/blob/master/3_boolean_logic.py)
-* [Lists](https://github.com/benfwalla/Python-For-Beginners/blob/master/4_lists.py)
-* [for loops](https://github.com/benfwalla/Python-For-Beginners/blob/master/5_for_loops.py)
-* [Functions](https://github.com/benfwalla/Python-For-Beginners/blob/master/6_functions.py)
-* [Importing modules](https://github.com/benfwalla/Python-For-Beginners/blob/master/7_imports.py)
-* [Object-Oriented Programming (OOP)](https://github.com/benfwalla/Python-For-Beginners/blob/master/8_object_oriented_programming.py)
+thar state, then this repository is for you. The following topics will be
+covered:
+* [1. print( ) and basic data types](https://github.com/benfwalla/Python-For-Beginners/blob/master/1_basic_data_types.py)
+* [2. Variables](https://github.com/benfwalla/Python-For-Beginners/blob/master/2_variables.py)
+* [3. Booleans and if statements](https://github.com/benfwalla/Python-For-Beginners/blob/master/3_boolean_logic.py)
+* [4. Lists](https://github.com/benfwalla/Python-For-Beginners/blob/master/4_lists.py)
+* [5. for loops](https://github.com/benfwalla/Python-For-Beginners/blob/master/5_for_loops.py)
+* [6. Functions](https://github.com/benfwalla/Python-For-Beginners/blob/master/6_functions.py)
+* [7. Importing modules](https://github.com/benfwalla/Python-For-Beginners/blob/master/7_imports.py)
+* [8. Object-Oriented Programming (OOP)](https://github.com/benfwalla/Python-For-Beginners/blob/master/8_object_oriented_programming.py)
 
 Each file will have thorough documentation that should make it easy to
 follow along.
@@ -36,5 +36,5 @@ Mac or PC. You can view the slides [here](https://docs.google.com/presentation/d
 As mentioned above, this repository does not cover all the materials to start
 developing legitimate projects. **As of now, I mention nothing about tuples,
 dictionaries, and while loops.** In my opinion, these are all necessary skills
-that I recommend learning. Here is a list of additional resources in module
-and beyond:
+that I recommend learning. Here is a list of additional resources in these 
+modules and beyond:
