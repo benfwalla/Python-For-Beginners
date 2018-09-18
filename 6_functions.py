@@ -30,7 +30,7 @@ def see_meatballs_repeat(times_repeated):
 see_meatballs_repeat(5)	# Out: meatballsmeatballsmeatballsmeatballsmeatballs
 print()
 
-# ^ Pretty cool, huh? We can insert 100 as a parameter and let out function do
+# ^ Pretty cool, huh? We can insert 100 as a parameter and let the function do
 # the hard work.
 
 # This next function is tough, but it applies all the same concepts. Let's
@@ -46,12 +46,12 @@ def get_present_value(future_value, interest_rate, years):
 	return present_value
 
 pv_1 = get_present_value(1000, .10, 20)
-print(pv_1)
+print(pv_1)	# Out: 148.64
 
 # ^ Okay- a lot of things to unpack here. Let's walk through it:
 # 	- When a function has many parameters, they are separated by commas
 # 	- variables can be declared inside a function
-#	- I called round(), another pre-installed function, round my answer to 2
+#	- I called round(), another pre-installed function, to round my answer to 2
 #	  decimal places
 # 	- A function usually will 'return' a value. A return statement is better
 #	  than printing something out because you can store it as a variable as I 
@@ -60,8 +60,8 @@ print(pv_1)
 
 # There are 2 types of variables in Python: global and local. Global variables
 # are outside all functions and loops and can be used anywhere. Conversly, 
-# local variables are inside functions and loops and are deleted when the
-# function exits
+# local variables are inside functions and loops deleted when the function
+# exits
 global_variable = "I'm global"
 def print_values():
 	
