@@ -1,6 +1,6 @@
 # VARIABLES
 
-# Variables are easy to understand. They simple point to values
+# Variables are easy to understand. They simply point to values
 a = 1
 b = 2
 

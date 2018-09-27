@@ -3,7 +3,7 @@
 Hello, novice Pytohnistas! I created this repository for absolute beginners of
 Python 3 for my club, Code@IU. Learning to code can be a very overwhelming 
 process because you might not know where to begin. If you feel like you are at 
-thar state, then this repository is for you. The following topics will be
+that state, then this repository is for you. The following topics will be
 covered:
 * [1. print( ) and basic data types](https://github.com/benfwalla/Python-For-Beginners/blob/master/1_basic_data_types.py)
 * [2. Variables](https://github.com/benfwalla/Python-For-Beginners/blob/master/2_variables.py)
@@ -32,9 +32,3 @@ which is a super simple text editor to write your Python.
 I created a pretty nifty set of slides to download Python 3 and Sublime on your
 Mac or PC. You can view the slides [here](https://docs.google.com/presentation/d/1mQYxUIxNDt13_VMecqVyM00Zv5uLiY9nGHUmqHTBWz8/edit?usp=sharing).
 
-### Helpful Links
-As mentioned above, this repository does not cover all the materials to start
-developing legitimate projects. **As of now, I mention nothing about tuples,
-dictionaries, and while loops.** In my opinion, these are all necessary skills
-that I recommend learning. Here is a list of additional resources in these 
-modules and beyond:
