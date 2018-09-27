@@ -1,3 +1,5 @@
+# DEVELOPING A BLOCKCHAIN CLASS
+
 import hashlib as hasher
 import datetime as date
 

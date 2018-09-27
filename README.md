@@ -13,6 +13,7 @@ covered:
 * [6. Functions](https://github.com/benfwalla/Python-For-Beginners/blob/master/6_functions.py)
 * [7. Importing modules](https://github.com/benfwalla/Python-For-Beginners/blob/master/7_imports.py)
 * [8. Object-Oriented Programming (OOP)](https://github.com/benfwalla/Python-For-Beginners/blob/master/8_object_oriented_programming.py)
+* [9. Blockchain Class](https://github.com/benfwalla/Python-For-Beginners/blob/master/9_Blockchain_Class.py)
 
 Each file will have thorough documentation that should make it easy to
 follow along.
