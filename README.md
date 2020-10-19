@@ -26,7 +26,7 @@ world of Python with the syntax and terminology to succeed.
 
 ### Installing Python 3
 Since you're probably a beginner of Python, you probably will not have it
-installed. In order to run the code in this folder, you will not to [install
+installed. In order to run the code in this folder, you will need to [install
 Python 3](https://www.python.org/downloads/) to your local computer. You will also need to [download Sublime](https://www.sublimetext.com/3),
 which is a super simple text editor to write your Python.
 
